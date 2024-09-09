@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/travelCaffe/static/css/main.3dca2e31.css",
-    "main.js": "/travelCaffe/static/js/main.04532dbc.js",
+    "main.js": "/travelCaffe/static/js/main.cb77098c.js",
     "static/js/453.ced72c17.chunk.js": "/travelCaffe/static/js/453.ced72c17.chunk.js",
     "index.html": "/travelCaffe/index.html",
     "main.3dca2e31.css.map": "/travelCaffe/static/css/main.3dca2e31.css.map",
-    "main.04532dbc.js.map": "/travelCaffe/static/js/main.04532dbc.js.map",
+    "main.cb77098c.js.map": "/travelCaffe/static/js/main.cb77098c.js.map",
     "453.ced72c17.chunk.js.map": "/travelCaffe/static/js/453.ced72c17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dca2e31.css",
-    "static/js/main.04532dbc.js"
+    "static/js/main.cb77098c.js"
   ]
 }
