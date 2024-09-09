@@ -1,0 +1,33 @@
+{
+    "schema": [
+    
+    {
+    "testa": "Tiffany Club ",
+    "posizione":"Viale Mediterraneo, 54",
+    "descrizione":"Una delle discoteche più popolari di Sottomarina. Propone serate con DJ set, eventi a tema e una vivace atmosfera estiva."
+    
+    },
+
+    {
+    "testa": "Cayo Blanco ",
+    "posizione":"Lungomare Adriatico, 40",
+    "descrizione":"Elegante stabilimento balneare che di sera si trasforma in un lounge bar alla moda, dove si può sorseggiare un cocktail con vista mare."
+    
+    },
+    {
+    "testa": "Discoteca Il Gabbiano",
+    "posizione":"Lungomare Adriatico, 50",
+    "descrizione":"Locale iconico per le serate danzanti, frequentato dai giovani per ballare fino a tarda notte con musica commerciale e house."
+    
+    },
+    {
+    "testa": "El Cason",
+    "posizione":"Rione S. Andrea, 609",
+    "descrizione":"Un punto di ritrovo per chi preferisce una serata più tranquilla, con musica dal vivo e un’atmosfera accogliente nel cuore di Chioggia."
+    
+    }
+  
+    
+    ]
+    
+    }

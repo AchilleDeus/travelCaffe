@@ -1,0 +1,29 @@
+{
+    "schema": [
+    
+    {
+    "testa": "Bar La Marina ",
+    "posizione":"Giglio Porto",
+    "descrizione":"Questo bar è un punto di ritrovo popolare per i giovani. La terrazza offre una splendida vista sul porto, ed è il luogo ideale per un aperitivo al tramonto o per trascorrere la serata in un’atmosfera rilassata."
+    
+    },
+    {
+    "testa": "Il Barz8 ",
+    "posizione":"Giglio Porto",
+    "descrizione":"Il Barz8 è un bar e cocktail lounge molto frequentato, conosciuto per i suoi drink creativi e l’atmosfera vivace. È il posto giusto per iniziare la serata prima di andare a ballare.."
+    
+    },
+    {
+    "testa": "Discoteca Club 71",
+    "posizione":"Giglio Campese",
+    "descrizione":"Per chi cerca una serata di musica e balli, il Club 71, situato a Giglio Campese, è l’unica discoteca dell’isola. Durante l'estate, ospita DJ locali e serate a tema, attirando un pubblico giovane e festaiolo."
+    
+    },
+    {
+    "testa": "Bar L'Altalena:",
+    "posizione":"Giglio Campese",
+    "descrizione":"Un altro locale molto frequentato a Giglio Campese è il Bar L'Altalena, che offre musica dal vivo, drink e una bella vista sulla baia. È perfetto per una serata tranquilla in compagnia di amici."
+    
+    }
+]
+}

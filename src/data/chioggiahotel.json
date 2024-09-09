@@ -1,0 +1,52 @@
+{
+    "schema": [
+    
+    {
+    "testa": "Hotel Grande Italia",
+    "posizione":"Indirizzo: Rione S. Andrea, 597, 30015 Chioggia VE",
+    "descrizione":"Telefono: +39 041 400515"
+    
+    },
+    {
+    "testa": "Hotel Caldin's",
+    "posizione":"Indirizzo: Fondamenta Canal Vena, 1282, 30015 Chioggia VE",
+    "descrizione":"Telefono: +39 041 404095"
+    
+    },
+  
+    {
+    "testa": "Hotel Bristol",
+    "posizione":"Indirizzo: Viale Lungomare Adriatico, 46, 30015 Sottomarina VE",
+    "descrizione":"Telefono: +39 041 5500844"
+    },
+  
+    {
+    "testa": "Hotel Europeo",
+    "posizione":"Indirizzo: Via Ondina, 31, 30015 Sottomarina VE",
+    "descrizione":"Telefono: +39 041 490779"
+    },
+    
+    {
+    "testa": "Hotel Le Tegnue",
+    "posizione":"Indirizzo: Lungomare Adriatico, 48, 30015 Sottomarina VE",
+    "descrizione":"Telefono: +39 041 491700"
+    },
+    {
+    "testa": "Pensione Ambra",
+    "posizione":"Indirizzo: Viale Lungomare Adriatico, 50, 30015 Sottomarina VE",
+    "descrizione":"Telefono: +39 041 400508"
+    },
+    {
+    "testa": "Hotel Clodia",
+    "posizione":"Indirizzo: Calle Forno Filippini, 876, 30015 Chioggia VE",
+    "descrizione":"Telefono: +39 041 401507"
+    }
+    
+    
+    
+    
+    
+    
+    ]
+    
+    }

@@ -1,0 +1,113 @@
+.regioneBox{
+   position: relative;
+   /* border: 2px solid; */
+   top: 80px;
+   width: 96%;
+   padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+ border-radius: 10px;
+ box-shadow: -5px -3px 5px #a7a4a4;
+ margin-bottom: 80px;
+}
+
+.regionecontainer{
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: teal; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.regioneTitle{
+    font-family: "Lora", serif;
+    color: #001d3d;
+     width: 50%;
+     text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    /* background-color: teal; */
+}
+
+ .regioneImg{
+    width: 50%;
+} 
+
+
+.regionecontainerLuoghi{
+
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+   align-items: center;
+   padding: 20px 0 0 0;
+ border-radius: 10px;
+ /* box-shadow: -5px -3px 5px #a7a4a4; */
+}
+
+.regioneBoxLuoghi{
+list-style: none;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 30px;
+padding: 0;
+
+
+}
+.regioneLuoghiTitle{
+font-size: 24px;
+font-family: 'Varela Round', sans-serif; 
+color: #001d3d;
+margin-bottom: 10px;
+}
+
+.regioneLuoghi-Item{
+    font-size: 14px;
+    line-height: 1.6;
+    color:#77685B ;
+    font-family: "Lora", serif;
+}
+.regioneLuoghi-Item:hover{
+   color: #001d3d;
+   scale: 1.3;
+   cursor: pointer;
+   font-weight: 800;
+}
+
+
+
+
+
+
+@media(max-width: 450px){
+
+    .regionecontainer{
+      flex-direction: column;
+    
+    }
+    .regioneTitle{
+        padding-top: 20px;
+        width: 100%;
+    
+    }
+    .regioneImg{
+        width: 80%;
+    } 
+
+    /* Classi di supporto Toscana */
+.testo{
+
+   text-align: center;
+}
+}

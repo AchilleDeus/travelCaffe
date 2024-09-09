@@ -1,0 +1,94 @@
+
+.boxCornice{
+
+position: relative;
+top: 70px;
+width: 96%;
+padding: 10px;
+margin-right: auto;
+margin-left: auto;
+/* background-color: teal; */
+border-radius: 10px;
+box-sizing: border-box;
+box-shadow: -5px -3px 5px #a7a4a4;
+margin-bottom: 70px;
+}
+.boxItaliaContainer{
+
+display: flex;
+padding: 30px;
+
+ 
+}
+
+.CardGeograficaTitle{
+
+font-size: 60px;
+font-weight: 900;
+width: 60%;
+text-align: center;
+font-family: "Varela Round", sans-serif;
+color: #001d3d;
+letter-spacing: 2px;
+}
+.CartGeograficaImg{
+
+width: 60%;
+
+}
+.boxCartGeografica{
+display: flex;
+flex-direction: column;
+align-items: center;
+box-sizing: border-box;
+padding: 10px;
+
+flex: 6;
+}
+.boxCartSidebar{
+  flex: 4;
+}
+
+@media(max-width:1300px){
+
+    .boxItaliaContainer{
+
+      flex-direction: column;
+         
+}
+        .CardGeograficaTitle{
+
+            font-size: 40px;
+            width: 90%;
+    
+          
+}
+ .CartGeograficaImg{
+
+ width: 80%;
+                
+}   
+.boxCartGeografica{
+   margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 450px){
+    .boxItaliaContainer{
+
+        padding: 10px;
+        
+         
+        }
+    .CardGeograficaTitle{
+
+        font-size: 20px;
+        width: 90%;    
+}
+.CartGeograficaImg{
+
+    width: 100%;
+                   
+   }  
+
+}

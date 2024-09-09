@@ -1,0 +1,43 @@
+{
+    "schema": [
+    
+    {
+    "testa": "B&B Le Poste di Simplicio",
+    "posizione":"Isola del Giglio",
+    "descrizione":"Situato a Giglio Castello, questo B&B offre camere accoglienti con vista panoramica. È perfetto per le famiglie grazie alla sua posizione tranquilla e alla disponibilità di camere spaziose."
+    
+    },
+    {
+    "testa": "B&B Airone",
+    "posizione":"Isola del Giglio",
+    "descrizione":"Questo B&B si trova a Giglio Porto, a pochi passi dal mare e dalle principali attrazioni. Le camere sono arredate in stile rustico, e alcune offrono una splendida vista sul porto. Ideale per famiglie che vogliono godere della vicinanza alle spiagge."
+    
+    },
+    {
+    "testa": "B&B Il Saraceno",
+    "posizione":"Isola del Giglio",
+    "descrizione":"Situato vicino alla Spiaggia di Campese, Il Saraceno è perfetto per le famiglie che desiderano trascorrere le giornate in spiaggia. La struttura offre camere confortevoli e una colazione abbondante."
+    
+    },
+    {
+    "testa": "B&B Arenella",
+    "posizione":"Isola del Giglio",
+    "descrizione":"Situato vicino alla Spiaggia dell’Arenella, questo B&B è immerso nel verde e offre un ambiente rilassante per le famiglie. Le camere sono spaziose e alcune offrono accesso diretto al giardino, perfetto per i bambini."
+    
+    },
+    {
+    "testa": "B&B La Guardia",
+    "posizione":"Isola del Giglio",
+    "descrizione":"Situato in una posizione panoramica, La Guardia offre camere eleganti e moderne con vista sul mare. La struttura è ideale per famiglie che cercano comfort e tranquillità, con la possibilità di esplorare facilmente l’isola."
+    
+    },
+    {
+    "testa": "B&B La Rosada",
+    "posizione":"Isola del Giglio",
+    "descrizione":"Questo B&B, situato a Giglio Porto, offre camere arredate con cura e una terrazza panoramica dove le famiglie possono rilassarsi. La posizione centrale consente di accedere facilmente alle spiagge e ai ristoranti dell’isola."
+    
+    }
+    
+    ]
+    
+    }

@@ -1,0 +1,71 @@
+
+{
+"schema":[
+
+{
+"src":"./chioggiaGalleria/chioggia01.jpg",
+"alt":"immagine della cattedrale Santa Maria Assunta(Chioggia)",
+"titolo":"Cattedrale di Santa Maria Assunta",
+"testo":"La principale chiesa di Chioggia, costruita nel 1624, rappresenta un capolavoro barocco con un'iconografia ricca e affreschi di grande valore."
+},
+{
+"src":"./chioggiaGalleria/chioggia02.jpg",
+"alt":"immagine Campanine di Sant'Andrea (Chioggia)",
+"titolo":"Campanile di Sant'Andrea",
+"testo":"Ospita l’orologio da torre più antico al mondo, risalente al 1386. Dal campanile si può godere di una splendida vista sulla città e sulla laguna."
+},
+{
+"src":"./chioggiaGalleria/chioggia03.jpg",
+"alt":"immagine Museo Civico della Laguna Sud (Chioggia)",
+"titolo":"Museo Civico della Laguna Sud",
+"testo":"Un museo che espone reperti storici e archeologici legati alla storia della laguna e delle attività tradizionali della zona, come la pesca e la lavorazione del vetro."
+},
+{
+"src":"./chioggiaGalleria/chioggia04.jpg",
+"alt":"immagine Chiesa di San Domenico (Chioggia)",
+"titolo":"Chiesa di San Domenico",
+"testo":"Situata su un’isola collegata da un ponte, questa chiesa ospita opere importanti come il crocifisso ligneo del XIII secolo."
+},
+{
+"src":"./chioggiaGalleria/chioggia05.jpg",
+"alt":"immagine Corso del Popolo (Chioggia)",
+"titolo":"Corso del Popolo",
+"testo":"La via principale di Chioggia, ricca di palazzi storici, caffè e negozi, è il luogo perfetto per immergersi nella vita cittadina e ammirare l'architettura del passato."
+},
+{
+"src":"./chioggiaGalleria/chioggia06.jpg",
+"alt":"immagine Ponte Vigo (Chioggia)",
+"titolo":"Ponte Vigo",
+"testo":"Un simbolo di Chioggia, questo ponte in pietra offre una splendida vista sul Canale della Vena, uno dei canali principali della città."
+},
+{
+"src":"./chioggiaGalleria/chioggia07.jpg",
+"alt":"immagine Porta Garibaldi (Chioggia)",
+"titolo":"Porta Garibaldi",
+"testo":"Costruita nel 1530, è uno degli ingressi storici della città ed è intitolata all'eroe nazionale Giuseppe Garibaldi."
+},
+{
+"src":"./chioggiaGalleria/chioggia08.jpg",
+"alt":"immagine Palazzo Granaio (Chioggia)",
+"titolo":"Palazzo Granaio",
+"testo":"Un antico edificio del XIV secolo, originariamente adibito alla conservazione del grano, oggi restaurato e adibito ad eventi culturali."
+},
+{
+"src":"./chioggiaGalleria/chioggia09.jpg",
+"alt":"immagine Tempietto di San Martino (Chioggia)",
+"titolo":"Tempietto di San Martino",
+"testo":"Piccola chiesa situata a Sottomarina, testimonia la storia religiosa della città e rappresenta un importante esempio di architettura locale."
+},
+{
+"src":"./chioggiaGalleria/chioggia10.jpg",
+"alt":"immagine Forte San Felice(Chioggia)",
+"titolo":"Forte San Felice",
+"testo":"Situato a Sottomarina, questo forte militare del 1300 è stato costruito dalla Repubblica di Venezia per proteggere l'ingresso della laguna. Ora è un sito di grande fascino storico."
+}
+
+
+
+]
+
+
+}

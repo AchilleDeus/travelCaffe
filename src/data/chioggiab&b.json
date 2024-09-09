@@ -1,0 +1,44 @@
+{
+"schema": [
+
+{
+"testa": "B&B Casa Mafalda",
+"posizione":"Chioggia",
+"descrizione":"Situato nel cuore del centro storico di Chioggia, questo B&B offre stanze spaziose e accoglienti, perfette per le famiglie. A pochi passi dai principali monumenti e dai canali pittoreschi della città."
+
+},
+{
+"testa": "B&B Ca' Tiepolo",
+"posizione":"Sottomarina",
+"descrizione":"A pochi minuti dalla spiaggia, questo B&B offre camere confortevoli e un'atmosfera familiare. Ideale per chi desidera alternare giornate al mare e visite alla vicina Chioggia."
+
+},
+{
+"testa": "B&B Antico Orologio",
+"posizione":"Chioggia",
+"descrizione":"Situato vicino al Campanile di Sant'Andrea, questo B&B è perfetto per chi cerca un soggiorno tranquillo con accesso alle principali attrazioni culturali di Chioggia. Adatto a famiglie grazie alle ampie camere."
+},
+{
+"testa": "B&B La Corte",
+"posizione":"Sottomarina",
+"descrizione":"A pochi passi dalla spiaggia, questo B&B moderno offre un ambiente rilassante per le famiglie. Dispone di camere spaziose e di un giardino privato per momenti di relax dopo una giornata al mare."
+},
+{
+"testa": "B&B Bella Laguna",
+"posizione":"Chioggia",
+"descrizione":"Con una splendida vista sulla laguna, questo B&B accoglie le famiglie con camere luminose e una colazione genuina. Perfetto per combinare relax e visite turistiche."
+},
+{
+"testa": "B&B Chioggia Bridges",
+"posizione":"Chioggia",
+"descrizione":" Situato vicino al Ponte Vigo, questo B&B è un'ottima scelta per le famiglie che desiderano esplorare Chioggia. Camere confortevoli e un servizio accogliente."
+}
+
+
+
+
+
+
+]
+
+}

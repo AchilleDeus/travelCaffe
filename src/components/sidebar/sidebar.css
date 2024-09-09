@@ -1,0 +1,102 @@
+.sidebar{
+ 
+    margin: 0;
+    /* margin-bottom: 140px; */
+    padding-bottom: 30px;
+    background-color: #fbfbfb;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: -10px -5px 12px #a7a4a4;
+
+}
+
+.sidebarItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.sidebarTitle{
+    margin: 10px;
+   padding: 5px;
+   width: 80%;
+   border-top: 1px solid #a7a4a4;
+   border-bottom: 1px solid #a7a4a4;
+   font-family: "Varela Round", sans-serif;
+   font-size: 12px;
+   color: #222;
+   font-weight: 600;
+   line-height: 20px;
+   text-align: center;
+   margin-bottom: 20px;
+ }
+
+ img{
+     margin-top: 20px;
+     width: 150px;
+    
+ }
+ .abaut{
+    font-family: 'Varela Round', sans-serif;   
+     font-size: 13px;
+     padding: 30px;
+     color: #666;
+ }
+ 
+ /* GRID */
+ .grid-Categorie{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, auto ));
+    row-gap: 5px;
+    column-gap: 20px;
+ }
+
+ .categorie-item{
+    font-family: "Varela Round", sans-serif;
+    font-weight: 800;
+    color: #000;
+        font-size: 12px;
+        width: 100%;
+    background-color: #22222218;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-shadow: -5px -3px 5px #a7a4a4;
+  
+ }
+
+ .categorie-item:hover{
+    background-color:#fbfbfb;
+    color: orange;
+    
+    }
+
+
+ .sidebarSocial{
+ 
+ margin-top: 15px;
+ 
+ width: 80%;
+ height: 50px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: #22222218;
+ border-radius: 10px;
+ box-shadow: -5px -3px 5px #a7a4a4;
+ }
+ 
+ .sidebarIcon{
+ 
+ font-size: 24px;
+ margin-left:10px ;
+ cursor: pointer;
+ }
+

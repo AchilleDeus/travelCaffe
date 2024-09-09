@@ -1,0 +1,197 @@
+
+.slaidHome{
+    width: 94%;
+    height: 450px;
+    /* background-color: teal; */
+position: relative;
+top: 70px;
+margin-left: auto;
+margin-right: auto;
+box-shadow: -10px -5px 12px #a7a4a4;
+border-radius: 10px;
+}
+
+.slaidTitles{
+position: absolute;
+width: 100%;
+display: flex;
+align-items: center;
+flex-direction: column;
+/* background-color: teal; */
+top: 30px;
+z-index: 200;
+color: #001d3d;
+font-family: "Lora", serif;
+}
+
+.slaidTitleSm{
+    font-size:24px ;
+
+    
+}
+.slaidTitleLg{
+font-size: 100px;
+
+}
+
+
+
+.slaidHome img{
+    position: absolute;
+width: 100%;
+height: 100%;
+margin-top: 0;
+border-radius: 10px;
+object-fit: cover;
+}
+
+/* GRID COMPONENTE */
+.grid-container{
+margin-right: 50px;
+display: grid;
+grid-template-columns: repeat(auto-fill,minmax(300px, auto ));
+grid-auto-rows: auto;
+gap: 10px;
+}
+
+/* .grid-item{
+border: 1px solid #000;
+
+
+
+} */
+/* Post */
+
+.post{
+    width: 100%;
+    
+}
+.postImg{
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.postInfo{
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+    
+}
+.postCat{
+
+display: inline-block;
+font-family: "Varela Round", sans-serif;
+font-size: 12px;
+color:#be9656;
+line-height: 20px;
+margin-top:15px ;
+
+}
+.postCat span{
+    margin-right: 20px;
+
+}
+.postTitle{
+font-family: 'Josefin Sans', sans-serif;
+font-size: 22px;
+font-weight: 700;
+margin-top: 10px;
+color: #001d3d;
+cursor: pointer;
+display: block;
+
+}
+.postTitle:hover{
+scale: 1.1;
+
+
+}
+.postDate{
+    font-family: 'Lora' , serif;
+    font-size: 13px;
+    color: #999;
+    margin-top: 15px;
+}
+
+.postDesc{
+font-family: 'Varela Round', sans-serif;   
+font-size: 13px;
+color: #666;
+line-height: 20px;
+margin-top: 10px;
+padding: 0 10px;
+}
+/* Post */
+
+.box{
+
+/* padding-top: 100px; */
+   margin-top: 120px;
+    width: 94%;
+    display: flex;
+  
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.box01{
+    flex: 9;
+  
+}
+.box02{
+    flex: 2;
+ 
+}
+
+@media(max-width:1300px){
+
+    .box01{
+        flex: 6;
+      
+    }
+    .box02{
+        flex:4 ;
+     
+    }
+   
+}
+
+
+
+
+@media(max-width: 450px){
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
+.slaidHome{
+    height: 200px;
+}
+
+.postImg{
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.grid-container{
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slaidTitleSm{
+    font-size:18px ;
+
+    
+}
+.slaidTitleLg{
+font-size: 50px;
+
+}
+
+}

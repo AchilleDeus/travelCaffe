@@ -1,0 +1,45 @@
+{
+    "schema": [
+    
+    {
+    "titolo": "Cacciucco alla Gigliese",
+    "ingredienti":"Pesce misto (scorfano, polpo, murena), pomodoro, aglio, peperoncino, vino rosso, pane tostato.",
+    "ristorante":"Da Maria",
+    "indirizzo":"Via Umberto I, 22, Giglio Porto GR",
+    "telefono":"+39 0564 809170",
+    "src":"./isolaDelGiglioCucina/piattiGiglio01.jpg",
+    "alt":"foto Cacciucco alla Gigliese"
+    
+    },
+    {
+    "titolo": "Palamita alla Griglia",
+    "ingredienti":"Palamita fresca, olio d'oliva, limone, aglio, prezzemolo.",
+    "ristorante":"La Vecchia Pergola",
+    "indirizzo":"Via Provinciale, 13, Giglio Porto GR",
+    "telefono":"+39 0564 809215",
+    "src":"./isolaDelGiglioCucina/piattiGiglio02.jpg",
+    "alt":"foto Palamita alla Griglia"
+    
+    },
+    {
+    "titolo": "Totani Ripieni",
+    "ingredienti":"Totani, pane grattugiato, prezzemolo, aglio, pomodorini, olio d'oliva.",
+    "ristorante":"Trattoria Doria",
+    "indirizzo":"Via di Mezzo Franco, 32, Giglio Castello GR",
+    "telefono":"+39 0564 806075",
+    "src":"./isolaDelGiglioCucina/piattiGiglio03.jpg",
+    "alt":"foto Totani Ripieni"
+    
+    },
+    {
+    "titolo": "Zuppa di Cozze",
+    "ingredienti":"Cozze fresche, pomodoro, aglio, prezzemolo, vino bianco, peperoncino.",
+    "ristorante":" Ristorante da Ruggero",
+    "indirizzo":"Via Provinciale, 19, Giglio Campese GR",
+    "telefono":"+39 0564 1835715",
+    "src":"./isolaDelGiglioCucina/piattiGiglio04.jpg",
+    "alt":"foto Zuppa di Cozze"
+    
+    }
+]
+}

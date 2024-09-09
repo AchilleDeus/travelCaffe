@@ -1,0 +1,47 @@
+{
+    "schema": [
+    
+    {
+    "testa": "Hotel Castello Monticello",
+    "posizione":"Indirizzo: Via Provinciale, 36, 58012 Isola del Giglio GRE",
+    "descrizione":"Telefono: +39 0564 806060"
+    
+    },
+    {
+    "testa": "Hotel Arenella",
+    "posizione":"Indirizzo: Via Santa Maria, 31, 58012 Isola del Giglio GR",
+    "descrizione":"Telefono: +39 0564 809237"
+    
+    },
+    {
+    "testa": "Hotel Bahamas",
+    "posizione":"Indirizzo: Via del Castello, 58012 Isola del Giglio G",
+    "descrizione":"Telefono: +39 0564 809406"
+    
+    },
+    {
+    "testa": "Pensione La Marina",
+    "posizione":"Indirizzo: Via Umberto I, 19, 58012 Isola del Giglio GR",
+    "descrizione":"Telefono: +39 0564 809062"
+    
+    },
+    {
+    "testa": "Hotel Giardino delle Palme",
+    "posizione":"Indirizzo: Via Provinciale, 17, 58012 Isola del Giglio GR",
+    "descrizione":"Telefono: +39 0564 809400"
+    
+    },
+    {
+    "testa": "Hotel Demo's",
+    "posizione":"Indirizzo: Via della Torre, 7, 58012 Giglio Campese GR",
+    "descrizione":"Telefono: +39 0564 1835765"
+    
+    },
+    {
+    "testa": "Hotel La Guardia",
+    "posizione":"Indirizzo: Via Thaon de Revel, 45, 58012 Giglio Porto GR",
+    "descrizione":"Telefono: +39 0564 809200"
+    
+    }
+]
+}

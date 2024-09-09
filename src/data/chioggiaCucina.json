@@ -1,0 +1,110 @@
+{
+    "schema": [
+    
+    {
+    "titolo": "Sarde in Saor",
+    "ingredienti":"Sarde fritte, cipolle caramellate, aceto, uvetta e pinoli.",
+    "ristorante":"Trattoria Alla Bella Venezia",
+    "indirizzo":"Calle Santa Maria Maddalena, 1912, 30015 Chioggia VE",
+    "telefono":"+39 041 401677",
+    "src":"./chioggiaCucina/piattiChioggia01.jpg",
+    "alt":"foto sarde in saor"
+    
+    },
+    {
+    "titolo": "Bisato (Anguilla) ai Ferri",
+    "ingredienti":"Anguilla, olio d’oliva, sale, pepe.",
+    "ristorante":"Osteria Penzo",
+    "indirizzo":"Riva Vena, 1262, 30015 Chioggia VE",
+    "telefono":" +39 041 5542220",
+    "src":"./chioggiaCucina/piattiChioggia02.jpg",
+    "alt":"foto Anguilla ai ferri"
+    
+    },
+    {
+    "titolo": "Risi e Bisi",
+    "ingredienti":" Riso, piselli freschi, brodo di carne, cipolla, burro, Parmigiano-Reggiano.",
+    "ristorante":"Ristorante El Gato",
+    "indirizzo":" Corso del Popolo, 937, 30015 Chioggia VE",
+    "telefono":" +39 041 5500956",
+    "src":"./chioggiaCucina/piattiChioggia03.jpg",
+    "alt":"foto piatto risi bisi"
+    
+    },
+    {
+    "titolo": "Polenta e Schie",
+    "ingredienti":" Gamberetti di laguna (schie), polenta, olio d’oliva, aglio.",
+    "ristorante":"Antica Osteria Al Cavallo",
+    "indirizzo":" Via S. Marco, 412, 30015 Sottomarina VE",
+    "telefono":" +39 041 4967695",
+    "src":"./chioggiaCucina/piattiChioggia04.jpg",
+    "alt":"foto piatto polenta e schie"
+    
+    },
+    {
+    "titolo": "Seppie in Umido",
+    "ingredienti":" Seppie, pomodoro, cipolla, aglio, vino bianco, olio d’oliva, prezzemolo.",
+    "ristorante":" Garibaldi",
+    "indirizzo":" Corso del Popolo, 1158, 30015 Chioggia VE",
+    "telefono":" +39 041 5508360",
+    "src":"./chioggiaCucina/piattiChioggia05.jpg",
+    "alt":"foto piatto seppie in umido"
+    
+    },
+    {
+    "titolo": "Spaghetti alla Busara",
+    "ingredienti":" Scampi, pomodori, aglio, olio d’oliva, vino bianco, prezzemolo.",
+    "ristorante":" Pizzeria Minerva",
+    "indirizzo":"Lungomare Adriatico, 62, 30015 Sottomarina VE",
+    "telefono":"+39 041 404523",
+    "src":"./chioggiaCucina/piattiChioggia06.jpg",
+    "alt":"foto piatto spaghetti alla busara"
+    
+    },
+    {
+    "titolo": "Baccalà alla Vicentina",
+    "ingredienti":"Stoccafisso, cipolle, latte, farina, olio d’oliva, Parmigiano-Reggiano.",
+    "ristorante":"Zefiro",
+    "indirizzo":"Lungomare Adriatico, 34, 30015 Sottomarina VE",
+    "telefono":"+39 041 5544007",
+    "src":"./chioggiaCucina/piattiChioggia07.jpg",
+    "alt":"foto piatto bacala alla vicentina"
+    
+    },
+    {
+    "titolo": "Fritto Misto dell'Adriatico",
+    "ingredienti":"Gamberi, calamari, sogliole, polenta fritta.",
+    "ristorante":" Al Pontil Dea Mar",
+    "indirizzo":"Viale Venezia, 6, 30015 Sottomarina VE",
+    "telefono":"+39 041 5540465",
+    "src":"./chioggiaCucina/piattiChioggia08.jpg",
+    "alt":"foto piatto fritto misto dell adriatico"
+    
+    },
+    {
+    "titolo": "Bibarasse in Cassopipa ",
+    "ingredienti":"Vongole, pomodori, vino bianco, olio d’oliva, aglio, peperoncino.",
+    "ristorante":" Nappa",
+    "indirizzo":"Viale Lungomare Adriatico, 65, 30015 Sottomarina VE",
+    "telefono":"+39 041 5540475",
+    "src":"./chioggiaCucina/piattiChioggia09.jpg",
+    "alt":"foto piatto Bibarasse in Cassopipa (Vongole al Sugo)"
+    
+    },
+    {
+    "titolo": "Tegnoline in Salsa ",
+    "ingredienti":"Tegoline (fagiolini), acciughe, cipolla, aceto, olio d’oliva.",
+    "ristorante":"Osteria Ae Do Spade",
+    "indirizzo":"Rione S. Andrea, 597, 30015 Chioggia VE",
+    "telefono":"+39 041 400515",
+    "src":"./chioggiaCucina/piattiChioggia10.jpg",
+    "alt":"foto piatto Tegnoline in Salsa"
+    
+    }
+    
+    
+    
+    
+    ]
+    
+    }

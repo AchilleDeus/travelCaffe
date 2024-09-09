@@ -1,0 +1,148 @@
+.boxAbautCornice{
+
+    position: relative;
+    top: 70px;
+    width: 96%;
+    padding: 10px ;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: -5px -3px 5px #a7a4a4;
+    }
+    .aboutTestaTitle{
+      
+        text-align: center;
+        font-size: 40px;
+        font-family: "Varela Round", sans-serif;
+         color: #001d3d;
+       font-weight: 900;
+    }
+
+    .aboutTesta{
+        display: flex;
+        margin-top: 20px;
+     align-items:start;
+       
+    }
+
+    .aboutTestaImg{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        margin-top: 0;
+        margin-left: 100px;
+        border-radius: 10px;
+        box-shadow: -5px -3px 5px #a7a4a4;
+       
+
+    }
+
+    .abautTestaParagrafo{
+     width: 70%;
+    margin-left: 100px;
+     font-family: "Josefin Sans", sans-serif;
+     font-size: 16px;
+     line-height: 1.3;
+ 
+     padding: 10px;
+     box-sizing: border-box;
+     border-radius: 10px;
+     box-shadow: -5px -3px 5px #a7a4a4;
+   
+    }
+
+    .boxPrimaintestazione{
+        width: 80%;
+        margin-top: 30px;
+        margin-left: 100px;
+
+    }
+    .PrimaintestazioneTitolo{
+      
+        font-size: 40px;
+        font-family: "Varela Round", sans-serif;
+         color: #001d3d;
+        font-weight: 900;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+    .Intestazione01{
+        width: 100%;
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 16px;
+        line-height: 1.3;
+        padding: 10px;
+        box-sizing: border-box;
+        border-radius: 10px;
+        box-shadow: -5px -3px 5px #a7a4a4;
+    }
+
+  
+
+    @media(max-width:1300px){
+        .aboutTesta{
+            display: flex;
+            flex-direction: column;
+        
+         
+        }
+        .aboutTestaImg{
+            width: 200px;
+            height: 200px;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: -5px -3px 5px #a7a4a4;
+           
+    
+        }
+
+        .abautTestaParagrafo{
+         width: 80%;
+         font-family: "Josefin Sans", sans-serif;
+         line-height: 1.3;
+         margin-left: 20px;
+         padding: 10px;
+         box-sizing: border-box;
+         border-radius: 10px;
+         box-shadow: -5px -3px 5px #a7a4a4;
+       
+        }
+        .boxPrimaintestazione{
+            margin-left: 20px;
+    
+        }
+    }
+
+    @media(max-width: 450px){
+        .aboutTestaTitle{
+         font-size: 25px;
+         
+        }
+        .aboutTestaImg{
+            width: 170px;
+            width: 170px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: -5px -3px 5px #a7a4a4;
+           
+    
+        }
+
+        .abautTestaParagrafo{
+         font-size: 14px;
+        }
+
+        .PrimaintestazioneTitolo{
+      
+            font-size: 25px;
+           
+        }
+        .Intestazione01{
+          
+            font-size: 14px;
+          
+        }
+    }

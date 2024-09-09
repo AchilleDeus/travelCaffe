@@ -1,0 +1,64 @@
+{
+    "schema":[
+    
+    {
+    "src":"./isolaDelGiglioGalleria/giglio01.jpg",
+    "alt":"immagine Giglio porto",
+    "titolo":"Giglio Porto",
+    "testo":"Inizia il tour dal pittoresco porto dell'isola, caratterizzato da edifici colorati e una vivace atmosfera. Qui si può visitare la Torre del Saraceno, una fortificazione del XVI secolo costruita per difendere l'isola dalle incursioni dei pirati."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio02.jpeg",
+    "alt":"immagine Chiesa dei Santi Lorenzo e Mamiliano",
+    "titolo":"Chiesa dei Santi Lorenzo e Mamiliano",
+    "testo":"Sempre a Giglio Porto, questa chiesa parrocchiale risalente al XVIII secolo è dedicata ai santi patroni dell'isola ed è un importante centro spirituale per la comunità locale."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio03.jpeg",
+    "alt":"immagine Giglio Castello",
+    "titolo":"Giglio Castello",
+    "testo":"Prosegui verso l'affascinante borgo medievale di Giglio Castello. Qui, potrai esplorare le mura del castello, costruite nel XII secolo dai Pisani, che offrono una vista spettacolare su tutta l'isola."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio04.jpg",
+    "alt":"immagine Chiesa di San Pietro Apostolo",
+    "titolo":"Chiesa di San Pietro Apostolo",
+    "testo":"Situata all'interno di Giglio Castello, questa chiesa del XV secolo custodisce preziose reliquie e un crocifisso ligneo di grande valore storico."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio05.JPG",
+    "alt":"immagine Rocca Aldobrandesca",
+    "titolo":"Rocca Aldobrandesca",
+    "testo":"Visita la Rocca Aldobrandesca, una possente fortificazione medievale che domina il borgo. La struttura è un simbolo dell'antico potere delle famiglie nobiliari che governavano l'isola."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio06.jpg",
+    "alt":"immagine Faro di Capel Rosso",
+    "titolo":"Faro di Capel Rosso",
+    "testo":"Scendi verso la punta sud dell'isola per ammirare il faro di Capel Rosso, costruito nel 1883. Il faro è uno dei tre sull'isola e offre un panorama mozzafiato sul mare."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio07.jpg",
+    "alt":"immagine Cala dell'Allume",
+    "titolo":"Cala dell'Allume",
+    "testo":"Visita questa cala, che prende il nome dalle antiche miniere di allume, sfruttate fin dall'epoca romana e nel Medioevo. Qui potrai scoprire resti delle attività estrattive."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio08.jpg",
+    "alt":"immagine Faro delle Vaccarecce",
+    "titolo":"Faro delle Vaccarecce",
+    "testo":"Situato nella parte nord-ovest dell'isola, questo faro del XIX secolo è uno dei più antichi dell'Arcipelago Toscano e continua a guidare i naviganti."
+    },
+    {
+    "src":"./isolaDelGiglioGalleria/giglio09.jpg",
+    "alt":"immagine Villa romana dei Domizi Enobarbi",
+    "titolo":"Villa romana dei Domizi Enobarbi",
+    "testo":"Concludi il percorso con una visita ai resti della villa romana, situata a Giglio Porto. Questo sito archeologico offre uno sguardo sulla vita dei nobili romani che scelsero l'isola come luogo di villeggiatura."
+    }
+   
+    
+    
+    ]
+    
+    
+    }

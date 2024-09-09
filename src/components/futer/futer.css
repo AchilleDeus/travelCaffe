@@ -1,0 +1,132 @@
+.boxFuter{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 20px 0px 70px 0px;
+    width: 100%;
+    background-color: #001d3d;
+
+   
+}
+.boxNewLeter{
+ list-style: none;
+  color: white;
+  width: 30%;
+  padding: 0;
+   
+}
+.newLeterImg{
+/* background-color: blueviolet; */
+
+width: 30%;
+box-sizing: border-box;
+padding-top: 60px;
+}
+.LeterImg{
+
+width: 35%;
+margin-left: 50%;
+ 
+}
+
+.formNewLeter{
+display: flex;
+flex-direction: column;
+width: 30%;
+}
+.newLeterTitle{
+font-size: 30px;
+color: white;
+margin-bottom: 10px;
+font-family: "Lora", system-ui;
+font-weight: 500;
+
+text-align: center;
+}
+
+.labelNewLeter{
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-family: "Varela Round", system-ui;
+    color: white;
+}
+
+.inputNewLeter{
+margin-bottom: 5px;
+height: 20px;
+
+}
+.ButtonNewLeter{
+    background-color: teal;
+    font-family: "Lora", system-ui;
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+@media(max-width:1300px){
+    .newLeterImg{
+
+        padding-top: 20px;
+        }
+        .LeterImg{
+        
+        width: 50%;
+        margin-left: 40%;
+         
+        }
+
+
+}
+
+
+
+
+@media(max-width: 450px){
+    .boxFuter{
+flex-direction: column;
+padding: 20px 0px 20px 0px;
+width: 100%;
+}
+    .boxNewLeter{
+width: 100%;
+padding: 0 20px 40px 20px;
+box-sizing: border-box;
+
+    }
+.newLeter-item{
+font-size: 16px;
+font-family: "Lora", system-ui;
+line-height: 1.3;
+}
+    .formNewLeter{
+
+width: 100%;
+box-sizing: border-box;
+padding: 0 20px 10px 20px;
+        
+        }
+
+.newLeterImg{
+
+  width: 100%;
+ 
+  }
+  .LeterImg{
+     width: 40%;
+     height: 40%;
+     object-fit: cover;
+  
+    margin-left: 30%;
+    margin-right: 30%;
+    
+    
+       
+    }
+
+       }
